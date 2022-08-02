@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.allnews{
+margin: 30px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  
+  
+  
+}
+.search {
+  padding: 30px;
+  
+}
